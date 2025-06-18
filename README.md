@@ -26,6 +26,8 @@
 
 ![Maaya Chatbot Screenshot](preview.png)
 
+![Maaya Chatbot Screenshot-2](preview2.png)
+
 ---
 
 ## 🧠 Tech Stack
